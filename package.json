@@ -1,0 +1,8 @@
+{
+  "name": "TesteTypescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/afonsodasilva1/Test-Typescript.git",
+  "author": "Afonso Da Silva Vicente <afonsodasilva0308@gmail.com>",
+  "license": "MIT"
+}
