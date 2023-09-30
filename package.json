@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "https://github.com/afonsodasilva1/Test-Typescript.git",
   "author": "Afonso Da Silva Vicente <afonsodasilva0308@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
 }
