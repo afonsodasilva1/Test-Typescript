@@ -5,8 +5,12 @@
   "repository": "https://github.com/afonsodasilva1/Test-Typescript.git",
   "author": "Afonso Da Silva Vicente <afonsodasilva0308@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "dev": "node --loader ts-node/esm . src/index.js"
+  },
   "devDependencies": {
     "@types/node": "^20.8.0",
+    "ts-node": "^10.9.1",
     "typescript": "^5.2.2"
   },
   "dependencies": {
