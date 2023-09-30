@@ -6,6 +6,7 @@
   "author": "Afonso Da Silva Vicente <afonsodasilva0308@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@types/node": "^20.8.0",
     "typescript": "^5.2.2"
   }
 }
