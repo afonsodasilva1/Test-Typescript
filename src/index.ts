@@ -1,4 +1,1 @@
-
-const a: string = 'typescript';
-console.log(a);
-
+import express from 'express';
