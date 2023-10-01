@@ -7,7 +7,7 @@
   "license": "MIT",
   "type": "module",
   "scripts": {
-    "dev": "node --loader ts-node/esm ./src/index.js"
+    "dev": "node --loader ts-node/esm ./src/server.js"
   },
   "devDependencies": {
     "@types/node": "^20.8.0",

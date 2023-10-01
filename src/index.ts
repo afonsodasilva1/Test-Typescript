@@ -1,12 +1,9 @@
 import express from 'express';
 
-const server = express();
+const app = express();
 
-server.get('/', (_req, res) =>{
-  res.send('Hello, World');
+app.get('/', (_req, res) => {
+  res.send('Hello, My Debby');
 });
 
-
-server.listen(3333, () => {
-  console.log('Server running in 3333');
-});
+export default app;
